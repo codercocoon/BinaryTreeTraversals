@@ -1,4 +1,4 @@
-package com.codercocoon.Tree;
+package javaspringexamples.Tree;
 
 public class Node {
 	int data;

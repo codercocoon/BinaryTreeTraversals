@@ -1,4 +1,4 @@
-package com.codercocoon.Tree;
+package javaspringexamples.Tree;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -9,7 +9,7 @@ import java.util.Stack;
  * traversal a tree in different ways : preOrder, postOrder, inOrder, top view
  * and level order.
  * 
- * @author contact@codercocoon.com.
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class BinaryTree {
